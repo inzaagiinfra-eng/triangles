@@ -26,7 +26,7 @@ const About = () => {
             <img
               src="/images/about.avif"
               alt="Real Estate"
-              className="w-full h-[450px] object-cover rounded-2xl shadow-lg"
+              className="w-full h-113 object-cover rounded-2xl shadow-lg"
             />
           </div>
 
